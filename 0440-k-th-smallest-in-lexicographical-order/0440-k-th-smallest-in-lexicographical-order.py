@@ -1,24 +1,24 @@
 class Solution:
     def findKthNumber(self, n: int, k: int) -> int:
         
-        def count_steps(prefix: int) -> int:
+        def count_steps(n, curr, next):
             steps = 0
-            curr = prefix
             while curr <= n:
-                steps += min(n + 1, curr * 10) - curr
+                steps += min(n + 1, next) - curr
                 curr *= 10
+                next *= 10
             return steps
         
-        current = 1
-        k -= 1  # We start at 1, so subtract 1 to handle the case when k = 1 directly
+        curr = 1
+        k -= 1
         
         while k > 0:
-            steps = count_steps(current)
+            steps = count_steps(n, curr, curr + 1)
             if steps <= k:
-                current += 1
+                curr += 1
                 k -= steps
             else:
-                current *= 10
+                curr *= 10
                 k -= 1
         
-        return current
+        return curr
