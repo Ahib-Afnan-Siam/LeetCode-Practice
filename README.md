@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Math
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Trie
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
