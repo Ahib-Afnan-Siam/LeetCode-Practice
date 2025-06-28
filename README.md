@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
