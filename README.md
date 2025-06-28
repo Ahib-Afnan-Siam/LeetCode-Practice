@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0048-rotate-image) |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0224-basic-calculator) |
 ## Two Pointers
