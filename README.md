@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0383-ransom-note) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
