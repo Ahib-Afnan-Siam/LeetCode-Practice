@@ -186,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [1317-monthly-transactions-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
