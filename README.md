@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Trie
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
