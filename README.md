@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -296,10 +299,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
