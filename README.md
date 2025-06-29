@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting Sort
 |  |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1317-monthly-transactions-i) |
+## Binary Search
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
