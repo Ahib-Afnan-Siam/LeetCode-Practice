@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Math
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Prefix Sum
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 ## Union Find
 |  |
 | ------- |
