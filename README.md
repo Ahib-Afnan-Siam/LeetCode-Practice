@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0212-word-search-ii) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Enumeration
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0101-symmetric-tree) |
