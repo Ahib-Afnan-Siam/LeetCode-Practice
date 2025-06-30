@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -435,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
