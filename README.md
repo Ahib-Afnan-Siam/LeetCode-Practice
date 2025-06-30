@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0046-permutations) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
