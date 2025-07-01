@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0127-word-ladder) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Heap (Priority Queue)
