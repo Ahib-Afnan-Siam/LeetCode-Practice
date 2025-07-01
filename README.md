@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
