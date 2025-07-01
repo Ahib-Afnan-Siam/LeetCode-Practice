@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Design
 |  |
