@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
