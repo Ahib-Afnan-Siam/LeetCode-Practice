@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0596-classes-with-at-least-5-students) |
 | [1155-product-sales-analysis-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1245-user-activity-for-the-past-30-days-i) |
