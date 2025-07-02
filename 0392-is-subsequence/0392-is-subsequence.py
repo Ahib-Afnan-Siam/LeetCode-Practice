@@ -1,13 +1,7 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        for i in t:
-            if s[0] == i:
-                s = s[1::]
-            else:
-                pass
-        if s == "":
-            return True
-        else:
-            return False
-
-        
+        i = 0  # pointer for s
+        for c in t:
+            if i < len(s) and c == s[i]:
+                i += 1
+        return i == len(s)
