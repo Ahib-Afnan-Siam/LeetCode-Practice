@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1480-movie-rating) |
+| [1811-fix-names-in-a-table](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1942-primary-department-for-each-employee) |
