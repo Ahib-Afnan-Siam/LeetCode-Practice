@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0605-can-place-flowers) |
