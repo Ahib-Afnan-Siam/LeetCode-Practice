@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0969-number-of-recent-calls](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0969-number-of-recent-calls](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
 ## Geometry
 |  |
 | ------- |
