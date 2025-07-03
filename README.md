@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3618-find-the-original-typed-string-ii) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
