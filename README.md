@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2428-equal-row-and-column-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Math
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
+| [2428-equal-row-and-column-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
