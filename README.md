@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
+| [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
