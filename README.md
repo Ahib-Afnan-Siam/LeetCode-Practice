@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0148-sort-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
