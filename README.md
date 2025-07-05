@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0649-dota2-senate) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting Sort
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0502-ipo) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
 ## Sliding Window
 |  |
 | ------- |
