@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -741,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
