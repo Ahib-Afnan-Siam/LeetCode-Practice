@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
