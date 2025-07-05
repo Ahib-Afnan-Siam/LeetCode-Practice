@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String Matching
