@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0502-ipo) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
