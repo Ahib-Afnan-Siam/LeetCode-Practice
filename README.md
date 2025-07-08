@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [0945-snakes-and-ladders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1036-rotting-oranges) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0224-basic-calculator) |
+| [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0724-find-pivot-index) |
+| [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3618-find-the-original-typed-string-ii) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1249-snapshot-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1249-snapshot-array) |
@@ -827,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0937-online-stock-span) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
