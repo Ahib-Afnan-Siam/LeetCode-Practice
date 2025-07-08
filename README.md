@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1249-snapshot-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1249-snapshot-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1249-snapshot-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
