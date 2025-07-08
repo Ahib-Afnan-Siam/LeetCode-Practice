@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
