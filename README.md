@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0610-triangle-judgement) |
