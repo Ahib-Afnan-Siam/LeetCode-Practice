@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0649-dota2-senate) |
+| [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
+| [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
