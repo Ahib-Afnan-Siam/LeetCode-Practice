@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0436-find-right-interval) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Combinatorics
 |  |
