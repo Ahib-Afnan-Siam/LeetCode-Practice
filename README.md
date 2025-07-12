@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Design
 |  |
