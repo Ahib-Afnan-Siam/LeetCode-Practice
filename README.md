@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0328-odd-even-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
