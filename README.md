@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2470-removing-stars-from-a-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Trie
