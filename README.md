@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1249-snapshot-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0212-word-search-ii) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
 ## Stack
 |  |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1300-critical-connections-in-a-network) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
