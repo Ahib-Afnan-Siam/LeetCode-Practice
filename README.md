@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0062-unique-paths) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0071-simplify-path) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
