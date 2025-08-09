@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
