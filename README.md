@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
