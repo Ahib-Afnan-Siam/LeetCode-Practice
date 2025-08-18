@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0735-asteroid-collision) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0326-power-of-three) |
+| [0679-24-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
