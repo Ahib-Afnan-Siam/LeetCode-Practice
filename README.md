@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2529-range-product-queries-of-powers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Memoization
 |  |
