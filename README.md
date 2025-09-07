@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## String Matching
 |  |
 | ------- |
