@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2529-range-product-queries-of-powers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3678-design-task-manager](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
