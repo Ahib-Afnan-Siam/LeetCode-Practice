@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0202-happy-number) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
