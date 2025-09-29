@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1249-snapshot-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
