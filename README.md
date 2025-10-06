@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
+| [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 ## Database
 |  |
 | ------- |
@@ -764,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
@@ -900,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -934,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1036-rotting-oranges) |
