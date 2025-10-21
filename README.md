@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
