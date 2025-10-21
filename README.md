@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting Sort
 |  |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Union Find
 |  |
@@ -818,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Backtracking
