@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3830-find-closest-person) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
