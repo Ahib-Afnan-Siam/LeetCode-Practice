@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2429-design-a-food-rating-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
