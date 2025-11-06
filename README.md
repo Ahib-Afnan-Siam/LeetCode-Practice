@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 ## Database
 |  |
 | ------- |
@@ -995,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1029,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1101,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
 | [1300-critical-connections-in-a-network](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1300-critical-connections-in-a-network) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1151,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 ## Interactive
 |  |
 | ------- |
