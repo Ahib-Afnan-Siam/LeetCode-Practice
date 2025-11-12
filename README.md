@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
