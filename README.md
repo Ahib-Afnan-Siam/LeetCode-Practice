@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0739-daily-temperatures) |
