@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1249-snapshot-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
