@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
