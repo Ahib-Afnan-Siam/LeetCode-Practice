@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2636-maximum-subsequence-score) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
