@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1209,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Ordered Set
 |  |
 | ------- |
