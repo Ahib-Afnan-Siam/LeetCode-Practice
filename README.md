@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3678-design-task-manager) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3396-valid-word) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3606-coupon-code-validator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
