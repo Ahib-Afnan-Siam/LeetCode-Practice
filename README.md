@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0649-dota2-senate) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0757-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1448-maximum-69-number) |
