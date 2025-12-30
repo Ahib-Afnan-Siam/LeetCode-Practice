@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0840-magic-squares-in-grid](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1006-vowel-spellchecker) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0912-random-pick-with-weight) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
