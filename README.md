@@ -1072,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1183,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
