@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0649-dota2-senate) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1006-vowel-spellchecker) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0806-domino-and-tromino-tiling) |
