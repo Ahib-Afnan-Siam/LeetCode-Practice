@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0155-min-stack) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0212-word-search-ii) |
@@ -1308,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
