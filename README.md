@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1397-search-suggestions-system) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0394-decode-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/0735-asteroid-collision) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2211-count-collisions-on-a-road](https://github.com/Ahib-Afnan-Siam/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
